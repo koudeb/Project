@@ -26,7 +26,11 @@ PS: What is 1 thing you'd ask LinkedIn if you went to their HQ this month? Comme
 
 ___________________________________________________________________________________________________________________________________________________________________
 
-Insight: This post shows that optimizing your LinkedIn profile is critical for visibility, audience growth, and converting content into business results.
+**Insight** 
 
-Why selected: Highlights the importance of LinkedIn profile optimization and clarity in messaging as key drivers of visibility, audience growth, and conversion in modern B2B content strategy.
+This post shows that optimizing your LinkedIn profile is critical for visibility, audience growth, and converting content into business results.
+
+**Why selected** 
+
+Highlights the importance of LinkedIn profile optimization and clarity in messaging as key drivers of visibility, audience growth, and conversion in modern B2B content strategy.
 
