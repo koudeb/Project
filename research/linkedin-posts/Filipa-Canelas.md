@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 This post highlights how LinkedIn content contributes to AI-driven discoverability, emphasizing the importance of authority, consistency, and in-depth content for visibility.
 
-**Why selected **
+**Why selected**
 
 Provides data-driven insights into how LinkedIn content influences AI-driven discoverability, highlighting the importance of authority, consistency, and expert-led content in B2B strategy.
 
