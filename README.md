@@ -4,8 +4,6 @@
 ## 📌 Overview
 This project documents the setup process of Cursor IDE along with required extensions and GitHub integration.
 
----
-
 ## 🛠️ Tools Installed
 
 - Cursor IDE
@@ -13,8 +11,6 @@ This project documents the setup process of Cursor IDE along with required exten
 - Claude Code Extension
 - Codex Extension
 - GitHub Account
-
----
 
 ## ⚙️ Steps Completed
 
@@ -26,8 +22,6 @@ This project documents the setup process of Cursor IDE along with required exten
 6. Cloned the repository using Git
 7. Opened the repository in Cursor IDE
 8. Edited the README.md file
-
----
 
 ## ⚠️ Issues Faced & Solutions
 
@@ -43,15 +37,11 @@ This project documents the setup process of Cursor IDE along with required exten
 - Problem: Security warning appeared
 - Solution: Verified source and allowed access
 
----
-
 ## 📚 Learnings
 
 - Learned how to set up a development environment
 - Understood Git and repository cloning
 - Improved problem-solving skills while troubleshooting issues
-
----
 
 ## ✅ Conclusion
 
