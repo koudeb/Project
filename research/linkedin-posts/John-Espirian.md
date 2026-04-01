@@ -12,6 +12,8 @@ Expect to see more articles and newsletters on LinkedIn as a new swathe of peopl
 
 For what it's worth, I analysed my last 70 longform pieces on LinkedIn, and my average word count is 1365 words. I can't say whether that's optimal, but some of my pieces have ranked pretty well in the past.
 
+___________________________________________________________________________________________________________________________________________________________________
+
 **Insight** 
 
 This post highlights how different LinkedIn content formats (longform vs shortform) impact discoverability and content performance.
