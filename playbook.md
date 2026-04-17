@@ -111,6 +111,29 @@ Instead of focusing only on posting content, I suggest prioritizing high-quality
 
 5. The playbook does not deeply cover performance tracking and analytics, which are important for understanding what works and improving content strategy over time.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Who I would NOT recommend following and why
+
+### 1. Katelyn Bourgoin
+
+(**Source:** Katelyn Bourgoin, https://www.linkedin.com/posts/katebour_ai-is-killing-tactics-faster-than-ever-good-activity-7441819414758445056-XQ0h/ , April 2026)
+
+Katelyn Bourgoin shares strong strategic insights about how marketing tactics evolve and how creativity becomes more important over time. However, her content is more conceptual and focuses on high-level thinking rather than providing clear, step-by-step guidance.
+
+**Why I would not recommend:** I would not recommend relying on her content as a primary source because it does not provide actionable frameworks or practical steps for execution. For someone trying to build a structured LinkedIn content strategy, more detailed and step-by-step guidance is needed.
+
+---
+
+### 2. Ross Simmonds
+
+(**Source:** Ross Simmonds, https://www.linkedin.com/posts/rosssimmonds_most-b2b-brands-treat-social-media-like-a-activity-7441863508738138112-Z8KU/ , April 2026)
+
+Ross Simmonds says content should focus on solving audience problems instead of promoting the brand, which is a useful idea.
+
+**Why I would not recommend:** I would not recommend relying on his content alone because his advice is broad and not very detailed. While “write for the problem” is a good idea, it does not clearly explain how to create, structure, or distribute content on LinkedIn in a practical way.
+
+
 
 
 
