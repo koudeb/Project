@@ -60,6 +60,31 @@ Focus on one clear niche and avoid posting across multiple unrelated topics.
 
 **My take:** I believe targeted communication is more effective because it builds stronger trust and relevance with the right audience. However, building authority and reach is also important, so the best approach is to focus on a specific audience while consistently sharing valuable insights that establish expertise.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## What I rejected and why
+
+## **Rejected Idea 1:** Prioritizing personal storytelling and lived experiences as the primary content approach
+
+(**Source:** Matt Barker, https://www.linkedin.com/posts/mattjbarker1_ill-be-honest-some-ai-written-linkedin-activity-7443642701742518272-KlHc/ , April 2026)
+
+Matt Barker says that content based on real experiences, personal stories, and authentic opinions performs better than generic content.
+
+**Reason for rejection:** While storytelling helps increase engagement, I did not include it as the main approach because B2B SaaS content needs to be more educational and practical. Using too much storytelling can reduce clarity and make the content less useful for a professional audience.
+
+
+## **Rejected Idea 2:** Prioritizing LinkedIn profile optimization as the most important factor
+
+(**Source:** Lara Acosta, https://www.linkedin.com/posts/laraacostar_i-spent-the-day-at-the-linkedin-headquarters-activity-7444691986248372224-48tM/ , April 2026)
+
+Lara Acosta suggests that the LinkedIn profile is the most important asset for visibility, audience growth, and conversions.
+
+**Reason for rejection:** While profile optimization is important, I did not prioritize it because content creation and consistency have a more direct impact on reach and engagement, and authority building. A strong profile alone cannot generate results without high-quality content.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
