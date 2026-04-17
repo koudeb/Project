@@ -108,6 +108,8 @@ Lara Acosta suggests that the LinkedIn profile is the most important asset for v
 
 ### Idea: Comment-first content distribution strategy
 
+This goes beyond general engagement by using comments as a deliberate strategy to build visibility before publishing content.
+
 Instead of focusing only on posting content, I suggest prioritizing high-quality comments on other creators' posts before publishing your own content.
 
 **How it works:**
