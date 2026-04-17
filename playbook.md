@@ -111,7 +111,7 @@ Instead of focusing only on posting content, I suggest prioritizing high-quality
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Who I would NOT recommend following and why
+## Who I would not recommend following and why
 
 ### 1. Katelyn Bourgoin
 
