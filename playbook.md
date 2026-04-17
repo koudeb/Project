@@ -16,7 +16,7 @@ Focus on one clear niche and avoid posting across multiple unrelated topics.
 
 ## Step 2: Make your content clear from the first line
 
-Ensure that your post clearly communicates its topic in the first line. Avoid confusing openings.
+Ensure that your post starts with a clear hook and communicates the topic in the first line.
 
 **Why this matters:** LinkedIn quickly categorizes content. If your post is not immediately clear, it may not reach the right audience.
 
